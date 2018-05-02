@@ -1,0 +1,291 @@
+Regression modeling
+Time series forecasting
+Classification models
+Clustering
+Association analysis
+Parametric  nonparametric statistical testing
+Supervised learning
+Logistic Regression
+GLM
+GBM
+Random Forest
+Survival Regression
+Unsupervised learning
+PCA
+Time Series Forecasting
+Design of Experiments
+Association Rules
+Deep Learning  Neural Networks
+Gradient Boosting
+Ensembling
+Linear
+nonlinear and regularized regression
+Clustering techniques
+Optimization techniques
+Discrete event simulation
+Genetic algorithm
+Linear and non  linear regression
+classification problems
+Big data
+Hadoop
+Hive
+HDFS
+Spark
+Spark ML
+Machine Learning
+Distributed Systems
+Supervised Learning
+Regression
+Boosting
+RF
+Optimization
+CNN
+Image Processing
+KMeans
+Linear Regression
+Generalized Liner Model
+Survival Analysis
+ARIMA
+Principal Component Analysis
+Naive Bayes
+Evolutionary Optimization
+Feature Engineering
+Time Series Analysis  Forecasting
+Linear and non linear regression
+Ridge and Lasso Regression
+Penalised regression models
+linear and non linear optimisation
+goal programming
+NA
+Linear and nonlinear regression
+clustering
+Predictive Analytics
+Statistical Modelling
+Theory of Inference
+SupervisedUnsupervised Learning
+Optimization Techniques
+Data Visualization
+Linear programming
+optimization
+Time series
+Enterprise Application Development
+Big Data  Development
+Data Ware housing
+Customer Data Integration
+CDI
+Data Science
+StatisticalEconometric Modelling
+Market Basket Analysis
+Time Series Analysis and Forecasting
+Multivariate Analysis
+Categorical Data Analysis
+Ensemble of Models
+Classification
+Forecasting
+Nave Bayes
+RFM
+Market Basket
+Association Mining
+Ensemble Models
+Recommendation Systems
+Timeseries Models
+Text Analytics
+ActionEffect Modelling
+Social Graph Analytics
+BaggingBoosting techniques
+Graph Theory
+Map reduce
+REST APIs
+inferential statistics
+Ensemble models
+Deep Learning
+Natural Language Processing
+Computer Vision
+Reinforcement Learning
+Time Series Models
+Ensemble
+Topic Modeling
+Opinion Mining
+Complex Network system
+Information Retrieval
+Social Network Analysis
+Recommendation System
+Time Series analysis
+Inference
+Text mining
+Ensemble Model
+Scoring algorithms
+Econometric models
+Bayesian modelling
+Inferential Statistics
+Econometric Modelling
+regression
+classification
+ensemble
+Unsupervised Learning
+Association Analysis
+Text Mining
+Time Series Analysis
+Regression  Classification
+Web Scraper
+ANOVA
+Market basket analysis
+Predictive analysis
+Time series analysis
+Algorithm Development into several domains
+Sensor data Analysis
+Statistical Signal Processing
+Reliability Analytics
+Collaborative Filtering
+Panel Regression
+Graph Pertitioning
+NLP
+Neural Network
+Discrete Time series Analysis
+Time Series Clustering
+Baysian Models
+Predictive Modeling
+Scorecard
+Hazard Modelling
+Ensemble techniques
+Visualization using Shiny
+Decision Trees and Random Forest
+Artificial Neural Networks
+Machine Learning Techniques
+Statistics
+Optimization and Genetic Algorithms
+Text analytics
+Social media analytics
+Web analytics
+Digital analytics
+Machine Learning including Neural networks
+Survey creation and measurement analytics
+Customer experience analytics
+CLTV
+ise in training people in Bigdata
+R
+Statistics and Machine Learning
+Generalized Linear Models
+Ridge
+LASSO  Elastic regression
+Modeled based partitions
+Time Series
+Dimension reduction techniques
+Bayesian Models like Dynamic Linear Models
+Bayesian hierarchical modeling  Dynamic Factor Analysis
+Regression and Forecasting
+Optimization techniquea
+Visualization
+Hypothesis Testing
+linear
+non linear
+Robust techniques
+Dimensionality Reduction techniques
+Supervised  Unsupervised techniques for Classification  Clustering
+App Development
+Supervised and Unsupervised Learning
+Ensemble modelling
+Linear and logistic regression
+Decision Trees
+Random Forests
+Linear mixed models
+Hierarchical and Kmeans Clustering
+ggplot2
+SVMs
+s
+Linear regression
+AB Testing  Design of Experiments
+s of Product Management
+AB Testing
+Supply Planning
+Operations Management
+Transportation
+Logistics
+Supply Chain Design
+LinearNonLinear regression
+Clustering Techniques
+Principal Components Analysis
+Machine learning
+Optimization  Operations Research
+Regression Techniques
+Classification Techniques
+Optmization Algorithms
+Genetic Algorithm
+BSTS model
+Probability
+Supervised  Unsupervised learning
+Classification  Clustering techniques
+Forecasting techniques
+Queuing Theory
+Classification and Segmentation techniques
+Time Series Modeling
+Hierarchical Modeling Techniques like Hierarchical Linear Models
+Hierarchical Bayesian Models
+Classification and Clustering Algorithms
+Linear Dynamic Models
+Kalman Filters and Particle Filters
+HMM
+Bayesian Methods
+Clustering Algorithms
+Dynamic models
+Algorithms  Programming
+Large Scale Analytics
+Real Time Analytics
+Data Pipeline
+Micro Service
+Garph Processing at large scale
+Data Structures  Algorithms
+Dynamic Programming
+Classification  Clustering
+Processing at large Scale
+Optimiazation
+Distributed computing
+Big data processing
+Webapps
+Data structures
+Mobile dev
+level
+Statistics  ML
+Statistical Modeling
+Operations Research
+Algorithm Design
+Actuarial Science
+Machine Learning  Supervised
+Unsupervised
+Semisupervisded
+Model Governance
+Machine Learning  Supervised and Unsupervised
+Survival and MMM Models
+Distributed Computing
+Big Data Spark Ecosystem
+web application development
+Statistical Methods
+Deep learning
+Neural networks
+optimization and OR techniques
+Web development
+Data Structures
+ML
+BI and data visualization
+Statistics and Probabilistic Models
+Statistical Modeling  Simulation
+Heuristic Optimization
+Statistics and Probabilistic models
+Business Analysis
+Insights Generation  Presentation
+Statistical Analysis
+StatisticalModelling
+VBA Tool buildig
+Data visualization
+story boarding
+generating deep dives
+Web Applications
+Web performance
+REST
+Spring Boot
+Regression models
+Monte Carlo Simulation
+Risk analytics
+VaR
+Stress
+Derivative pricing
